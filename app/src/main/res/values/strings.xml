@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Robbo</string>
+    <string name="password">введите пароль</string>
+    <string name="login">введите логин</string>
+    <string name="email">введите email</string>
+</resources>
